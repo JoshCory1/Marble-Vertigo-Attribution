@@ -1,0 +1,10 @@
+control_v11f1p_sd15_depth.pth lllyasviel
+
+Usage of:
+	
+
+Licenses:
+	https://huggingface.co/blog/open_rail
+	
+Website:
+	https://huggingface.co/lllyasviel/ControlNet-v1-1/blob/main/control_v11f1p_sd15_depth.pth
