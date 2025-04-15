@@ -12,7 +12,7 @@ Usage of:
 		all(modified)
 
 Licenses:
-	https://github.com/JoshCory1/marble_vertigo/blob/master/Attribution/Licenses/ovali
+	https://github.com/JoshCory1/Marble-Vertigo-Attribution/tree/main/Licenses
 	
 Website:
 	https://ovanisound.com/

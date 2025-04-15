@@ -13,7 +13,6 @@ Usage of:
 	mapPack_tilesheet: Map Pack
 
 Licenses:
-	https://github.com/JoshCory1/marble_vertigo/blob/master/Attribution/Licenses/Kenny
-
+	https://github.com/JoshCory1/Marble-Vertigo-Attribution/tree/main/Licenses
 Website:
 	https://www.kenney.nl/
